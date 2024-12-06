@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7a3cvil4d910l2yh?svg=true)](https://ci.appveyor.com/project/IanaPopova/netologyapici-3d-task)
